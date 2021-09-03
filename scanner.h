@@ -1,5 +1,5 @@
-enum tokens { FDT , SEP , CAD };
+enum tokens {FDT , SEP , CAD};
 
 typedef enum tokens token_t;
 
-token_t get_token( char* );
+token_t get_token(char*);
